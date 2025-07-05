@@ -9,7 +9,7 @@ terraform {
     resource_group_name = "Terraform_DevOps"  
     storage_account_name = "tfbackend202504"                              
     container_name       = "B-17_G20"                                 
-    key                  = "Lab-00.terraform.tfstate"                   
+    key                  = "Labs.terraform.tfstate"                   
   }
 }
 
