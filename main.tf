@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "Dev-RG" {
-  name     = "WE-SSB-Dev-RG"
+  name     = "Demo-RG"
   location = "West Europe"
 }
 
