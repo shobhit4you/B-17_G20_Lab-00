@@ -1,5 +1,5 @@
-resource "azurerm_resource_group" "Dev-RG" {
-  name     = "Demo-RG"
+resource "azurerm_resource_group" "Dev-SI-RG" {
+  name     = "Demo-SI-RG"
   location = "South India"
 }
 
