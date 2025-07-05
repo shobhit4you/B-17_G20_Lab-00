@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "Dev-RG" {
-  name     = "Demo-RGjagseer"
+  name     = "Demo-RGjagseer22"
   location = "australiaeast"
 }
 
